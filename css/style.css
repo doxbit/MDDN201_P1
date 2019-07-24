@@ -20,13 +20,17 @@ section{
 }
 
 .homepage{
+	background-color: #153F59;
+}
+
+.homehead{
 	padding-top: 300px;
 	padding-bottom: 50px;
-	font-size: 100px
+	font-size: 100px;
 }
 
 .homenav {
-	font-size: 60px
+	font-size: 60px;
 }
 
 .title{
